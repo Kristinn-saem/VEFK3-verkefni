@@ -4,11 +4,11 @@
 Nöfn: Kristinn Sæm
 
 ## Gagnaskrár sem við skoðuðum
-00_GOGN_OG SKILGREININGAR/DATA_DICTIONARY.md
-00_GOGN_OG SKILGREININGAR/games_master_dataset.csv
-00_GOGN_OG SKILGREININGAR/consoles_and_platforms.csv
-00_GOGN_OG SKILGREININGAR/genres_and_tags_summary.csv
-00_GOGN_OG SKILGREININGAR/developers_and_publishers_.csv
+00/DATA_DICTIONARY.md
+00/games_master_dataset.csv
+00/consoles_and_platforms.csv
+00/genres_and_tags_summary.csv
+00/developers_and_publishers_.csv
 
 ## Stærð gagnasfnsins
 Fjöldi leikjafærslna: 13.603
