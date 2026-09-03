@@ -25,4 +25,9 @@ Fjöldi platforma: 14
 7. Dálkurinn "developers" inniheldur upplýsingar sem eru rangar eða Unknown.
 8. Meirihluti leikjanna eru gefnir út á PC, PlayStation 4 og Xbox One.
 9. Meirihluti leikjanna eru Platformer.
-  10. Það eru fæst leikir sem eru compilation
+10. Það eru fæst leikir sem eru compilation
+
+# mögulegir notendur
+1. Leikjasafnari
+2. vinir að leita af co-op leikjum
+3. fólk að leita af single-player leikjum
