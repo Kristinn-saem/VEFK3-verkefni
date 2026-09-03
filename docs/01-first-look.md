@@ -4,16 +4,16 @@
 Nöfn: Kristinn Sæm
 
 ## Gagnaskrár sem við skoðuðum
-00/DATA_DICTIONARY.md
-00/games_master_dataset.csv
-00/consoles_and_platforms.csv
-00/genres_and_tags_summary.csv
-00/developers_and_publishers_.csv
+00/DATA_DICTIONARY.md <br>
+00/games_master_dataset.csv <br>
+00/consoles_and_platforms.csv <br>
+00/genres_and_tags_summary.csv <br>
+00/developers_and_publishers_.csv <br>
 
 ## Stærð gagnasfnsins
-Fjöldi leikjafærslna: 13.603
-Földi dálka: 38
-Fjöldi platforma: 14
+Fjöldi leikjafærslna: 13.603 <br>
+Földi dálka: 38 <br>
+Fjöldi platforma: 14 <br>
 
 ## 10 athuganir um gögnin
 1. Það eru 13.603 færslur um leiki.
