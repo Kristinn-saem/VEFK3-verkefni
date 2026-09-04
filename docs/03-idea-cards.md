@@ -4,42 +4,30 @@
 ### Notandi
 game collectors
 ### Vandamál
+veit ekki hvort collector items eru í gögnunum
 ### Gögn sem hugmyndin notar
 leiki <br>
 platforms <br>
 developers <br>
 auka collectors items? <br>
 ### Aðalflæði
-1. þú leitar af leik
-2.
-3.
-4.
+1. þú velur einhvern leik
+2. kerfið sýnir öll versions af leiknum og hvað þeir kosta 
+3. sýnir líka collectiors items fyrir leikinn
 ### Af hverju gæti þetta verið gott verkefni?
 Því að það gæti verið gott að hafa síðu sem sýnir þér alla auka hluti sem leikjasafnarar gætu viljað
-### Helstu áhættur
-veit ekki hvort collector items eru í gögnunum
-## Hugmynd 2 
+## Hugmynd 2 - game library og recomendations
 ### Notandi
+fólk sem vill halda utan um leiki sem þau eíga og vilja vita hvaða leikir eru svipaðir
 ### Vandamál
+veit ekki alveg hvernig ég myndi fara að því að sýna leiki sem eru svipaðir
 ### Gögn sem hugmyndin notar
+leiki <br>
+platforms <br>
+developers <br>
 ### Aðalflæði
-1.
-2.
-3.
-4.
+1. notandi setur leik inni í library
+2. kerfði finnur leiki sem eru svipaðir og leikirnir í library
+3. notandi getur líka leitað sjálfur upp leiki 
 ### Af hverju gæti þetta verið gott verkefni?
-
-### Helstu áhættur
-
-## Hugmynd 3 
-### Notandi
-### Vandamál
-### Gögn sem hugmyndin notar
-### Aðalflæði
-1.
-2.
-3.
-4.
-### Af hverju gæti þetta verið gott verkefni?
-
-### Helstu áhættur
+alltaf þæginlegt að geta fundið næsta leik til að spila
