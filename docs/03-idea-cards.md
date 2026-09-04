@@ -31,3 +31,8 @@ developers <br>
 3. notandi getur líka leitað sjálfur upp leiki 
 ### Af hverju gæti þetta verið gott verkefni?
 alltaf þæginlegt að geta fundið næsta leik til að spila
+
+
+## Einkunnir hugmynda
+1. Collectors 3.7/5 (mig líkar betur við þessa hugmynd en fær mínus stig þvi ég er ekki alveg viss hvort þetta er hægt)
+2. Recomendations 4/5 
